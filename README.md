@@ -184,7 +184,7 @@ The framework is open. The methodology is documented here. Build on it, extend i
 
 ## On the Name
 
-The token that gates access to the SoulMode generator is called Bubble Tea Cat. The cat is real.
+The token that helped fund the development of the SoulMode generator is called Bubble Tea Cat. The cat is real.
 
 Tanner, known online as Hoppy Cat, went viral on Imgur in 2015 for standing up on her hind legs whenever someone reached down to pet her. Not trained. Not commanded. Just her way of meeting people halfway. She had a small YouTube channel where kids could send in yes/no questions, and if the answer was yes, she would hop up on camera to say so.
 
