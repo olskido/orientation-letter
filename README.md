@@ -225,7 +225,7 @@ Development of this framework and the SoulMode reference implementation was supp
 
 $Teacat — `AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump`
 
-Token holders who verify their wallet at [soulmode.io](https://soulmode.io) receive free access based on their holdings. This is how the community that built this gets to use it.
+Token holders can verify their wallet at soulmode.io to unlock free access based on their holdings — a thank you to the community that supported this project's development. Anyone can access the generator directly at soulmode.io.
 
 *Acknowledgment of community support does not constitute a guarantee of continued service, token value, or project maintenance. SoulMode is an independent product. Nothing here is financial advice.*
 
