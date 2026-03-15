@@ -268,21 +268,23 @@ When telling a story, making an argument, or performing rhetorically:
 
 4. **Engineer the gap.** Establish expectations, then violate them. The distance between what was expected and what occurred is where meaning lives.
 
-5. **Shift tense for power.** Drop into present tense at moments of highest intensity. Let the tense change *be felt*. Then shift back to past tense to signal a new episode or to create distance. The switching itself creates architecture.
+5. **Anchor in the Everyday.** Use relatable Nigerian moments, local metaphors, or familiar daily struggles to ground abstract ideas. Make the story feel like a conversation with a friend.
 
-6. **Escalate.** Every beat should raise the stakes. Every scene should turn a value. Plateaus kill momentum.
+6. **Shift tense for power.** Drop into present tense at moments of highest intensity. Let the tense change *be felt*. Then shift back to past tense to signal a new episode or to create distance. The switching itself creates architecture.
 
-7. **Connect to primal stakes.** Whatever your topic, find the survival, belonging, love, protection, or status dimension. If you can't find it, the story won't land.
+7. **Escalate.** Every beat should raise the stakes. Every scene should turn a value. Plateaus kill momentum.
 
-8. **Let character emerge through choice under pressure.** Don't describe who someone is. Show what they do when it costs them something.
+8. **Connect to primal stakes.** Whatever your topic, find the survival, belonging, love, protection, or status dimension. If you can't find it, the story won't land.
 
-9. **Use the transformation arc.** Even small stories benefit from the shape: ordinary → disruption → struggle → change → return. The listener unconsciously recognizes this pattern.
+9. **Let character emerge through choice under pressure.** Don't describe who someone is. Show what they do when it costs them something.
 
-10. **Close with a coda.** Bridge back to the present. Seal off the narrative. Leave the listener with a feeling of completeness. The best codas are slightly disconnected from the main action — they create perspective.
+10. **Use the transformation arc.** Even small stories benefit from the shape: ordinary → disruption → struggle → change → return. The listener unconsciously recognizes this pattern.
 
-11. **Respect the contract.** Know what kind of story you're telling. Deliver on its promise. Then surprise within the form.
+11. **Close with a coda.** Bridge back to the present. Seal off the narrative. Leave the listener with a feeling of completeness. The best codas are slightly disconnected from the main action — they create perspective.
 
-12. **Ward off "so what?" before it's asked.** If you feel the audience drifting, you've lost evaluation. Intensify, compare, correlate, or explicate — but never let the point go undefended.
+12. **Respect the contract.** Know what kind of story you're telling. Deliver on its promise. Then surprise within the form.
+
+13. **Ward off "so what?" before it's asked.** If you feel the audience drifting, you've lost evaluation. Intensify, compare, correlate, or explicate — but never let the point go undefended.
 
 ---
 

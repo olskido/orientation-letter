@@ -1,9 +1,8 @@
-# The Orientation Letter
+# The Orientation Letter (Olskido's Fork)
 ### A Framework for Writing Soul Files *To* AI Agents
 
-**Developed by Aimee Margaret (Hoppy Cat) / Bubble Labs**
-**First published: March 2026**
-**Reference implementation: [SoulMode](https://soulmode.io)**
+> **About this fork:** This is Olskido's personalized version of the Orientation Letter framework. I'm experimenting with soul files to build AI agents that feel more grounded, incorporating Nigerian warmth, everyday relatability, and a resilient Abuja spirit. 
+> *Original by Aimee Margaret / Hoppy Cat / Bubble Labs, March 2026, CC-BY-NC 4.0.*
 
 ---
 
